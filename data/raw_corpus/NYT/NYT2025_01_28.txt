@@ -1,0 +1,53 @@
+Why DeepSeek Could Change What Silicon Valley Believes About A.I.
+A new A.I. model, released by a scrappy Chinese upstart, has rocked Silicon Valley and upended several fundamental assumptions about A.I. progress.
+The artificial intelligence breakthrough that is sending shock waves through stock markets, spooking Silicon Valley giants, and generating breathless takes about the end of Americas technological dominance arrived with an unassuming, wonky title: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.
+
+The 22-page paper, released last week by a scrappy Chinese A.I. start-up called DeepSeek, didnt immediately set off alarm bells. It took a few days for researchers to digest the papers claims, and the implications of what it described. The company had created a new A.I. model called DeepSeek-R1, built by a team of researchers who claimed to have used a modest number of second-rate A.I. chips to match the performance of leading American A.I. models at a fraction of the cost.
+
+DeepSeek said it had done this by using clever engineering to substitute for raw computing horsepower. And it had done it in China, a country many experts thought was in a distant second place in the global A.I. race.
+
+Some industry watchers initially reacted to DeepSeeks breakthrough with disbelief. Surely, they thought, DeepSeek had cheated to achieve R1s results, or fudged their numbers to make their model look more impressive than it was. Maybe the Chinese government was promoting propaganda to undermine the narrative of American A.I. dominance. Maybe DeepSeek was hiding a stash of illicit Nvidia H100 chips, banned under U.S. export controls, and lying about it. Maybe R1 was actually just a clever re-skinning of American A.I. models that didnt represent much in the way of real progress.
+Eventually, as more people dug into the details of DeepSeek-R1  which, unlike most leading A.I. models, was released as open-source software, allowing outsiders to examine its inner workings more closely  their skepticism morphed into worry.
+
+And late last week, when lots of Americans started to use DeepSeeks models for themselves, and the DeepSeek mobile app hit the number one spot on Apples App Store, it tipped into full-blown panic.
+
+Im skeptical of the most dramatic takes Ive seen over the past few days  such as the claim, made by one Silicon Valley investor, that DeepSeek is an elaborate plot by the Chinese government to destroy the American tech industry. I also think its plausible that the companys shoestring budget has been badly exaggerated, or that it piggybacked on advancements made by American A.I. firms in ways it hasnt disclosed.
+
+But I do think that DeepSeeks R1 breakthrough was real. Based on conversations Ive had with industry insiders, and a weeks worth of experts poking around and testing the papers findings for themselves, it appears to be throwing into question several major assumptions the American tech industry has been making.
+
+The first is the assumption that in order to build cutting-edge A.I. models, you need to spend huge amounts of money on powerful chips and data centers.
+Its hard to overstate how foundational this dogma has become. Companies like Microsoft, Meta and Google have already spent tens of billions of dollars building out the infrastructure they thought was needed to build and run next-generation A.I. models. Theyplan to spend tens of billions more or, in the case of OpenAI, as much as $500 billion through ajoint venture with Oracle and SoftBankthat was announced last week.
+DeepSeek appears to have spent a small fraction of that building R1. We dont know the exact cost, and there areplenty of caveats to makeabout the figures theyve released so far. Its almost certainly higher than $5.5 million, the number the company claims it spent training a previous model.
+But even if R1 cost 10 times more to train than DeepSeek claims, and even if you factor in other costs they may have excluded, like engineer salaries or the costs of doing basic research, it would still be orders of magnitude less than what American A.I. companies are spending to develop their most capable models.
+The obvious conclusion to draw is not that American tech giants are wasting their money. Its still expensive to run powerful A.I. models once theyre trained, and there are reasons to think that spending hundreds of billions of dollars will still make sense for companies like OpenAI and Google, which can afford to pay dearly to stay at the head of the pack.
+But DeepSeeks breakthrough on cost challenges the bigger is better narrative that has driven the A.I. arms race in recent years by showing that relatively small models, when trained properly, can match or exceed the performance of much bigger models.
+
+That, in turn, means that A.I. companies may be able to achieve very powerful capabilities with far less investment than previously thought. And it suggests that we may soon see a flood of investment into smaller A.I. start-ups, and much more competition for the giants of Silicon Valley. (Which, because of the enormous costs of training their models, have mostly been competing with each other until now.)
+
+There are other, more technical reasons that everyone in Silicon Valley is paying attention to DeepSeek. In the research paper, the company reveals some details about how R1 was actually built, which include some cutting-edge techniques in model distillation. (Basically, that means compressing big A.I. models down into smaller ones, making them cheaper to run without losing much in the way of performance.)
+
+DeepSeek also included details that suggested that it had not been as hard as previously thought to convert a vanilla A.I. language model into a more sophisticated reasoning model, by applying a technique known as reinforcement learning on top of it. (Dont worry if these terms go over your head  what matters is that methods for improving A.I. systems that were previously closely guarded by American tech companies are now out there on the web, free for anyone to take and replicate.)
+
+Even if the stock prices of American tech giants recover in the coming days, the success of DeepSeek raises important questions about their long-term A.I. strategies. If a Chinese company is able to build cheap, open-source models that match the performance of expensive American models, why would anyone pay for ours? And if youre Meta  the only U.S. tech giant that releases its models as free open-source software  what prevents DeepSeek or another start-up from simply taking your models, which you spent billions of dollars on, and distilling them into smaller, cheaper models that they can offer for pennies?
+
+DeepSeeks breakthrough also undercuts some of the geopolitical assumptions many American experts had been making about Chinas position in the A.I. race.
+
+First, it challenges the narrative that China is meaningfully behind the frontier, when it comes to building powerful A.I. models. For years, many A.I. experts (and the policymakers who listen to them) have assumed that the United States had a lead of at least several years, and that copying the advancements made by American tech firms was prohibitively hard for Chinese companies to do quickly.
+
+But DeepSeeks results show that China has advanced A.I. capabilities that can match or exceed models from OpenAI and other American A.I. companies, and that breakthroughs made by U.S. firms may be trivially easy for Chinese firms  or, at least, one Chinese firm  to replicate in a matter of weeks.
+
+(The New York Times has sued OpenAI and its partner, Microsoft, accusing them of copyright infringement of news content related to A.I. systems. OpenAI and Microsoft have denied those claims.)
+
+The results also raise questions about whether the steps the U.S. government has been taking to limit the spread of powerful A.I. systems to our adversaries  namely, the export controls used to prevent powerful A.I. chips from falling into China's hands  are working as designed, or whether those regulations need to adapt to take into account new, more efficient ways of training models.
+
+And, of course, there are concerns about what it would mean for privacy and censorship if China took the lead in building powerful A.I. systems used by millions of Americans. Users of DeepSeeks models have noticed that they routinely refuse to respond to questions about sensitive topics inside China, such as the Tiananmen Square massacre and Uyghur detention camps. If other developers build on top of DeepSeeks models, as is common with open-source software, those censorship measures may get embedded across the industry.
+
+Privacy experts have also raised concerns about the fact that data shared with DeepSeek models may be accessible by the Chinese government. If you were worried about TikTok being used as an instrument of surveillance and propaganda, the rise of DeepSeek should worry you, too.
+
+Im still not sure what the full impact of DeepSeeks breakthrough will be, or whether we will consider the release of R1 a Sputnik moment for the A.I. industry, as some have claimed.
+
+But it seems wise to take seriously the possibility that we are in a new era of A.I. brinkmanship now  that the biggest and richest American tech companies may no longer win by default, and that containing the spread of increasingly powerful A.I. systems may be harder than we thought.
+
+At the very least, DeepSeek has shown that the A.I. arms race is truly on, and that after several years of dizzying progress, there are still more surprises left in store.
+
+

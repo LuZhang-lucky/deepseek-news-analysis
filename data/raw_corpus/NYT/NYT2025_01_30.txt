@@ -1,0 +1,32 @@
+The DeepSeek drama may have been briefly eclipsed by, you know, everything in Washington (which, if you can believe it, got even crazier Wednesday). But rest assured that over in Silicon Valley, there has been nonstop, Olympic-level pearl-clutching over this Chinese upstart that managed to singlehandedly wipe out hundreds of billions of dollars in market cap in just a few hours and put Americas mighty tech titans on their heels.
+
+ICYMI: DeepSeek is a Chinese AI lab with a model thats similar to ChatGPT, and people are freaking out over it because of its engineers claims about how they built it  cheaply, using a small fraction of the computing power used by US labs like OpenAI. Big picture: DeepSeek has forced tech bros and their investors to question the industrys core assumption that they need gajillions more dollars to effectively secure enough energy to power their AI advancements.
+
+Now, perhaps not unexpectedly, American tech leaders are trying to shift the narrative to make DeepSeek look like the villain. (And you gotta suspect none of these guys  theyre mostly guys  paid attention in English class because they appear fully unaware of the excruciating irony  some might say hypocrisy  baked into their accusations.)
+
+On Tuesday, Bloomberg and the Financial Times reported that OpenAI and Microsoft, its biggest investor, are looking into evidence that DeepSeek used OpenAIs intellectual property to build its competitor, violating its terms of service. An OpenAI spokesperson confirmed to CNN on Wednesday that the company is aware of and reviewing indications that DeepSeek may have inappropriately distilled our models, and will share information as we know more.
+
+Distilling isnt exactly stealing, but it is a kind of copycat maneuver used by developers to train smaller AI models on the performance of larger, more sophisticated ones. (More on that in a moment.)
+
+So, to recap: OpenAI, a startup thats built on a foundation of data it scraped from the internet without permission, is pointing the finger at another startup allegedly doing more or less the same thing.
+
+As a reminder, OpenAI is currently mired in litigation with various content creators, including the New York Times, who accuse the company of training its large language models on copyrighted material. (OpenAI doesnt deny using the material but has argued that its not copyright infringement because the content falls under the legal doctrine known as fair use.)
+
+The irony might have been best summed up in a headline from tech news site 404 Media: OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us.
+
+Some prominent tech figures greeted the allegations from OpenAI with a shrug, noting that distilling is practically standard practice in the AI industry.
+
+Id be surprised if DeepSeek hadnt used it, said Lutz Finger, senior visiting lecturer at Cornell University. Technically, its easy to do, he added, and if done well, it is easy to disguise and avoid detection, thus I would be equally surprised if we ever get proof of such tactics.
+
+Tech venture capitalist Bill Gurley wrote on X that the core algorithm everyone uses was developed at DeepMind, Googles AI lab. No one disputes that. The vast majority of LLM insights and breakthroughs are borrowed.
+
+So yeah, maybe OpenAI is having a bit of a sour grapes moment over a foreign rival making it look bad on the global stage. Whatever.
+
+The more generous read is that OpenAI, as the poster child of American AI innovation, is trying to establish some rules in what is an unregulated and rapidly expanding industry that few people outside of it understand at a technical level.
+
+For example, there is a fine line between distillation and extraction, explains Zack Kass, an AI consultant and former OpenAI go-to-market lead.
+
+Distillation is a common practice in AI, but its typically done within the same organization that owns both models, he said in an email.
+
+If DeepSeek trained its model by querying ChatGPT at scale and using the responses to teach its own model, it raises legitimate concerns about whether that constitutes unauthorized use of OpenAIs API, Kass said. Regardless of the specifics here, were entering a phase where the AI community will have to define clearer norms around what constitutes fair use versus unauthorized replication.
+

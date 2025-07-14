@@ -1,0 +1,34 @@
+Who Is the Founder of the A.I. Start-Up DeepSeek?
+In technology, many entrepreneurs get only one defining act. Liang Wenfeng, the founder ofDeepSeek, is already on his second.
+The engineer, described by colleagues as introspective, first made his mark in Chinas investment world in the late 2010s, cofounding a hedge fund that used artificial-intelligence models to deliver strong returns and attracted billions of dollars in capital.
+Buoyed by profits and wary of Beijings tightening grip on speculative trading, Mr. Liang pivoted in 2023. He poured money into artificial intelligence, betting onA.I. chipsand assembling a team to buildChinas answerto the Silicon Valley front-runner OpenAI.
+Now, just two years later,DeepSeekhas upended the global tech landscape. Here is what you need to know about Liang Wenfeng.
+Hes a deeply technical engineer. That puts him in a line of other successful Chinese tech executives.
+When Chinese technologists debated why the countrys biggest investors and tech firms failed to anticipate the rise of generative A.I., many pointed to a single culprit: Chinas companies were obsessed with quick returns in a fiercely competitive market.
+Image
+
+Armed with those lessons  and backed by his own trading windfall  Mr. Liang has made it clear his ambitions lie far beyond commercial applications.
+His focus, he has said, is on what he sees as Chinas only real chance to catch up with the United States. That means taking bold, idealistic swings at fundamental A.I. challenges. His primary ambition is to create artificial general intelligence or A.G.I.  the elusive goal of building machines that can think and learn like humans.
+When DeepSeek undercut its Chinese competition last year by offering its model at bargain prices, forcing larger rivals into their own price cuts, Mr. Liang dismissed the significance.
+To be honest, we didnt really care  it was just something we did along the way, he said in awidely shared interviewwith 36Kr, a Chinese tech outlet. Providing cloud services is not our main goal. Our aim is still to achieve A.G.I. (DeepSeek has remained mostly silent this week and has not responded to requests for comment.)
+In his convictions that superhuman artificial intelligence is just around the corner, Mr. Liang sounds a lot like OpenAIs chief executive, Sam Altman. But the similarities end there. Mr. Liang, a low-profile executive with a deep technical background in A.I. engineering, more fits the mold of Pony Ma, a co-founder of Chinas Tencent, than Silicon Valleys charismatic visionaries.
+He started as a hedge fund trader. And then he turned to pure A.I. research.
+In many ways, Mr. Liangs career traces the major shifts in Chinas technology landscape.
+His 2010 thesis at Zhejiang University tackled what would soon become one of the hottest topics in Chinese A.I.: improving intelligent tracking algorithms for surveillance cameras.
+Image
+
+Mr. Liangs university thesis addressed algorithms for surveillance cameras, which would become a hot topic in Chinese A.I.Credit...Aly Song/Reuters
+Later, the hedge fund he co-founded was buffeted by regulatory pressures, eventually forcing the closure of one of its main investment products, according to Peter Alexander, managing director of Z-Ben Advisors, a market consultancy, who researches Chinese hedge funds.
+Between 2019 and 2023, they wanted to have this side project so that their Ph.D.s felt like they had something to do and so DeepSeek originated from that, Mr. Alexander said.
+But it really went into overdrive when their primary investment product had to shut down in February of 2024, he said.
+In a way, it was Chinas crackdown on the private sector that nudged DeepSeek toward long-term A.I. research.
+Hes willing to try things other entrepreneurs will not. He even hired lit majors.
+If you polled Chinas A.I. experts on who would deliver the countrys first major generative A.I. breakthrough, few would have picked Mr. Liang. That included the Chinese government.
+DeepSeek was a private company with no apparent state backing, no big-name alliances and none of the institutional heft of players like Baidu, the search giant. In a system that favored insiders, Mr. Liang was not one.
+Yet, theres precedent for that. Some of Chinas most disruptive tech companies  Huawei, Alibaba, ByteDance  started outside the spotlight, only to redefine their industries.
+Mr. Liangs approach has been as unconventional as his companys rise. He has emphasized intellectual exploration over sheer grind. His hiring philosophy is equally unorthodox  DeepSeeks engineering teams have been joined by literature buffs to help refine the companys A.I. models.
+Everyone has their own unique journey and brings their own ideas with them, so theres no need to push them, he said in the 36Kr interview.
+In a tech culture defined by grueling hours and hierarchy, that outlook borders on Bohemian. Yet, Mr. Liang insists change is necessary if China wants to lead in frontier A.I. innovation.
+When ChatGPT came out, the entire industry in China lacked the confidence to pursue frontier innovation, he said.
+Innovation starts with confidence  and we often see that more from young people.
+

@@ -1,0 +1,103 @@
+What to Know About DeepSeek and How It Is Upending A.I.
+How did a little-known Chinese start-up cause the markets and U.S. tech giants to quake? Heres what to know.
+A hand holding an iPhone with words saying Hi, Im DeepSeek and How can I help you today? on the screen.
+
+Tech stocks tumbled. Giant companies like Meta and Nvidia faced a barrage of questions about their future. Tech executives took to social media to proclaim their fears.
+
+And it was all because of a little-known Chinese artificial intelligence start-up called DeepSeek.
+
+DeepSeek caused waves all over the world on Monday as one of its accomplishments  that it had created a very powerful A.I. model with far less money than many A.I. experts thought possible  raised a host of questions, including whether U.S. companies were even competitive in A.I. anymore.
+
+DeepSeek is AIs Sputnik moment, Marc Andreessen, a tech venture capitalist, posted on social media on Sunday.
+
+How could a company that few people had heard of have such an effect?
+
+Heres what to know about DeepSeek, its technology and its implications.
+What is DeepSeek?
+Why did the stock market react to it now?
+Why is that important?
+How did DeepSeek make its tech with fewer A.I. chips?
+Is DeepSeeks tech as good as systems from OpenAI and Google?
+U.S. tech giants are building data centers with specialized A.I. chips. Does this still matter, given what DeepSeek has done?
+Hasnt the United States limited the number of Nvidia chips sold to China?
+Does DeepSeeks tech mean that China is now ahead of the United States in A.I.?
+What exactly is open-source A.I.?
+What is important about it?
+What is DeepSeek?
+DeepSeek is a start-up founded and owned by the Chinese stock trading firm High-Flyer. Its goal is to build A.I. technologies along the lines of OpenAIs ChatGPT chatbot or Googles Gemini. By 2021, DeepSeek had acquired thousands of computer chips from the U.S. chipmaker Nvidia, which are a fundamental part of any effort to create powerful A.I. systems.
+
+In China, the start-up is known for grabbing young and talented A.I. researchers from top universities, promising high salaries and an opportunity to work on cutting-edge research projects. Both High-Flyer and DeepSeek are run by Liang Wenfeng, a Chinese entrepreneur.
+
+Over the past few years, DeepSeek has released several large language models, which is the kind of technology that underpins chatbots like ChatGPT and Gemini. On Jan. 10, it released its first free chatbot app, which was based on a new model called DeepSeek-V3.
+
+Why did the stock market react to it now?
+When DeepSeek introduced its DeepSeek-V3 model the day after Christmas, it matched the abilities of the best chatbots from U.S. companies like OpenAI and Google. That alone would have been impressive.
+
+But the team behind the new system also revealed a bigger step forward. In a research paper explaining how it built the technology, DeepSeek said it used only a fraction of the computer chips that leading A.I. companies relied on to train their systems.
+
+The worlds top companies typically train their chatbots with supercomputers that use as many as 16,000 chips or more. DeepSeeks engineers said they needed only about 2,000 Nvidia chips.
+
+DeepSeek caused waves all over the world on Monday as one of its accomplishments  that it had created a very powerful A.I. model with far less money than many A.I. experts thought possible  raised a host of questions.
+Why is that important?
+Since late 2022, when OpenAI set off the A.I. boom, the prevailing notion had been that the most powerful A.I. systems could not be built without investing billions of dollars in specialized A.I. chips. That would mean that only the biggest tech companies  such as Microsoft, Google and Meta, all of which are based in the United States  could afford to build the leading technologies.
+
+(The New York Times has sued OpenAI and its partner, Microsoft, claiming copyright infringement of news content related to A.I. systems. The two tech companies have denied the suits claims.)
+
+But DeepSeeks engineers said they needed only about $6 million in raw computing power to train their new system. That was roughly 10 times less than what Meta spent building its latest A.I. technology.
+
+How did DeepSeek make its tech with fewer A.I. chips?
+Top A.I. engineers in the United States say that DeepSeeks research paper laid out clever and impressive ways of building A.I. technology with fewer chips.
+
+In short, the startups engineers demonstrated a more efficient way of analyzing data using the chips. Leading A.I. systems learn their skills by pinpointing patterns in huge amounts of data, including text, images and sounds. DeepSeek described a way of spreading this data analysis across several specialized A.I. models  what researchers call a mixture of experts method  while minimizing the time lost by moving data from place to place.
+
+Others have used similar methods before, but moving information between the models tended to reduce efficiency. DeepSeek did this in a way that allowed it to use less computing power.
+
+It has become very clear that other companies, not just someone like OpenAI, can build these kinds of systems, said Tim Dettmers, a researcher at the Allen Institute for Artificial Intelligence in Seattle and a professor of computer science at Carnegie Mellon University who specializes in building efficient A.I. systems. DeepSeek used methods that anyone can duplicate.
+
+DeepSeeks research paper raised questions about whether big U.S. companies could maintain a significant lead in A.I. Many experts believe that A.I. technology will become a commodity, with many companies selling much the same product.
+
+Is DeepSeeks tech as good as systems from OpenAI and Google?
+DeepSeek-V3 can answer questions, solve logic problems and write its own computer programs as effectively as anything already on the market, according to standard benchmark tests.
+
+Just before DeepSeek released its technology, OpenAI had unveiled a new system, called OpenAI o3, which seemed more powerful than DeepSeek-V3. But OpenAI has not released this system to the wider public.
+
+OpenAI o3 was designed to reason through problems involving math, science and computer programming. Many experts pointed out that DeepSeek had not built a reasoning model along these lines, which is seen as the future of A.I.
+
+Then on Jan. 20, DeepSeek released its own reasoning model called DeepSeek R1, and it, too, impressed the experts. That eventually sent U.S. investors and others into a panic late last week and over the weekend as they realized the importance of DeepSeeks new technology.
+
+U.S. tech giants are building data centers with specialized A.I. chips. Does this still matter, given what DeepSeek has done?
+Yes, it still matters.
+
+Large numbers of A.I. chips can still help companies in many ways. With more chips, they can run more experiments as they explore new ways of building A.I. In other words, more chips can still give companies a technical and competitive advantage.
+
+More chips will also be needed to operate the new breed of reasoning A.I. models, experts said. These require more computing power when people and businesses use them.
+
+Hasnt the United States limited the number of Nvidia chips sold to China?
+Image
+Facing an audience, Jensen Huang stands in front of a large screen showing the inside of a chip.
+DeepSeeks engineers said they needed only about 2,000 Nvidia chips to train the startups A.I. system.Credit...Stella Kalinina for The New York Times
+Yes. To maintain the U.S. lead in the global A.I. race, the Biden administration had put in place rules limiting the number of powerful chips that could be sold to China and other rivals.
+
+But the impressive performance of the DeepSeek model raised questions about the unintended consequences of the American governments trade restrictions. The controls have forced researchers in China to get creative with a wide range of tools that are freely available on the internet.
+
+Some experts continue to argue in favor of U.S. trade restrictions, saying that they were only recently put in place and that they will have a greater effect on Chinas abilities to create A.I. as the years pass.
+
+Does DeepSeeks tech mean that China is now ahead of the United States in A.I.?
+No. The world has not yet seen OpenAIs o3 model, and its performance on standard benchmark tests was more impressive than anything else on the market. But experts are concerned that China is jumping ahead on open-source A.I. systems.
+
+What exactly is open-source A.I.?
+Like many other companies, DeepSeek has open sourced its latest A.I. system, which means that it has shared the underlying computer code with other businesses and researchers. This allows others to build and distribute their own products using the same technologies.
+
+This is part of the reason DeepSeek and others in China have been able to build competitive A.I. systems so quickly and inexpensively.
+
+In the A.I. world, open source first gathered steam in 2023 when Meta freely shared an A.I. system called Llama. At the time, many assumed that the open-source ecosystem would flourish only if companies like Meta  giant firms with huge data centers filled with specialized chips  continued to open source their technologies.
+
+But DeepSeek and others have shown that this ecosystem can thrive in ways that extend beyond the American tech giants.
+
+What is important about it?
+Many experts have argued that the big U.S. companies should not open source their technologies because they could be used to spread disinformation or cause other serious harm. Some U.S. lawmakers have explored the possibility of preventing or throttling the practice.
+
+But other experts have argued that if regulators stifle the progress of open-source technology in the United States, China will gain a significant edge. If the best open-source technologies come from China, these experts argue, U.S. researchers and companies will build their systems atop those technologies.
+
+In the long run, that could put China at the heart of A.I. research and development, which could further accelerate its effort to build a wide range of A.I. technologies, including autonomous weapons and other military systems.
+

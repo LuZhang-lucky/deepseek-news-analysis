@@ -1,0 +1,608 @@
+Why DeepSeek could mark a turning point for Silicon Valley on AI
+
+Silicon Valley is coming to grips this week with the realization that creating an advanced artificial intelligence model may no longer be as specialized a task as was once believed.
+
+The wakeup call came in the form of DeepSeek, a year-old Chinese start-up whose free, open-source AI model, R1, is more or less on par with advanced models from American tech giants  and it was built for a fraction of the cost, apparently with less advanced chips and it demands far less data center power to run.
+
+Until now, the widely accepted wisdom in the US tech world was that American tech giants could stay ahead by spending billions of dollars, amassing advanced chips and building out huge data centers (despite the environmental cost). Essentially, because theyre among the richest companies in the world, they believed they could throw more resources at the problem than anyone else and come out on top.
+
+A television broadcasts DeepSeek news at the Nasdaq MarketSite in New York, US, on Monday, January 27, 2025.
+Related article
+DeepSeek chaos suggests America First may not always win
+
+Now, all of that has been called into question. And tech giants are facing tough questions from Wall Street.
+
+The name of the AI game may no longer be winning with the most expensive, ever-more powerful models.
+
+The paradigm is shifting, said Zack Kass, an AI consultant and former OpenAI go-to-market lead.
+
+Its so hard to own a scientific breakthrough such as an AI model advancement, Kass said, and prevent competitors from catching up. Instead, tech companies may now find themselves competing to lower costs and build more helpful applications for consumers and corporate customers  and also to suck up less power and natural resources in the process.
+
+Silicon Valley reacts
+At least one American tech leader has already promised to respond to DeepSeek by speeding up the release of more powerful models.
+
+OpenAI CEO Sam Altman called DeepSeeks R1 model impressive in an X post Monday, adding that we will pull up some releases of new models in response. OpenAI Chief Product Officer Kevin Weil also said the companys upcoming o3 model, set to launch in the coming weeks, would be another major step up.
+
+Its a super competitive industry, right? And this is showing that its competitive globally, not just within the US, Weil said on a call with reporters about OpenAIs new ChatGPT offering for government agencies, in response to a question from CNN. Were committed to moving really quickly here. We want to stay ahead.
+
+But analysts also expect the Big Tech companies to scale back their data center spending plans and potentially rethink how much theyre charging consumers. DeepSeek has proved its possible to provide the technology at a lesser cost, although some industry experts have raised eyebrows at the startups claims about spending just under $6 million to build its model.
+
+OpenAIs largest investor, Microsoft, is investigating whether DeepSeek trained its model off of stolen OpenAI data, Bloomberg reported. Even if the company achieved its efficiency revolution with some malfeasance, DeepSeeks achievements have lit a fire under Silicon Valleys AI industry.
+
+DeepSeek's large language model is basically a cheaper ChatGPT, made with a handful of old Nvidia chips.
+Related article
+DeepSeek just blew up the AI industrys narrative that it needs more money and power
+
+All those other frontier model labs  OpenAI, Anthropic, Google  are going to build far more efficient models based on what theyre learning from DeepSeek, said Gil Luria, head of technology research at investment firm D.A. Davidson. And youll be able to use those at a fraction of the price that you can now, because its going to be a fraction of the cost to run those models.
+
+To be sure, the industry was almost certainly going to eventually shift its focus to efficiency  working to add AI capabilities using a set amount of computing power versus adding more servers to juice the technology. There are only so many computers you can build and only so much electricity available to service them. And an AI tool can only get so proficient at, say, writing emails or planning trips, before making it marginally more powerful is no longer worthwhile.
+
+But DeepSeek appears to have sped up that timeline. And in Silicon Valley, unwinding spending on data centers could be tricky.
+
+Just last week, OpenAI, Oracle and SoftBank visited the White House to announce the creation of a new company and a $500 million investment in US AI infrastructure; Microsoft CEO Sundar Pichai affirmed he was good for his companys planned $80 billion investment in AI development and infrastructure this year; and Meta CEO Mark Zuckerberg said his companys AI spending could reach as much as $65 billion this year.
+
+That crazy AI data center build-out that weve been talking about for the last couple of years? They dont need to do that anymore. They can build a lot less because they can provide a lot more services at a much lower price, Luria said. He added that investors will likely expect to hear about those plans in the American tech companies earnings calls over the next two weeks.
+
+Of course, if the tech giants cut data center costs for training AI models  and therefore charge customers less  their tools will get used more, putting more inference (or people asking questions) strain on the data centers, Bloomberg Intelligence analysts wrote Tuesday. So just how dramatic that pullback on data center spending might be remains to be seen.
+
+DeepSeeks upside
+Some tech leaders say theyre looking at DeepSeek as validation  rather than a threat.
+
+Proponents of open-source AI  where the models underlying architecture is made publicly available, rather than charged for  say the Chinese model is proof that American companies should be sharing their innovations rather than gatekeeping them. That way, the whole US field could advance more quickly and remain the technology standard around the world.
+
+The United States already has the best closed models in the world. To remain competitive, we must also support the development of a vibrant open-source ecosystem, former Google CEO Eric Schmidt wrote in a Washington Post op-ed Tuesday.
+
+Meta, which has pushed open-source AI with its Llama model, also said such models are driving a significant shift in the industry, and thats going to bring the benefits of AI to everyone faster.
+
+And even if DeepSeek forces a short-term rethinking of the business model Silicon Valley had envisioned for AI, people who believe the technology will change the world should be glad for the advancement, Kass said.
+
+We are freaked out fairly, I suppose, because we thought we had global AI supremacy, when, in fact, we should be celebrating, Kass said. Because this is one more piece of evidence that the AI revolution is going to democratize technology and its going to be fairly distributed.
+DeepSeek just blew up the AI industrys narrative that it needs more money and power
+The story of AI in the 2020s has gone something like this:
+
+Sam Altman: Look, a toy that can write your book report.
+VCs: This will fix everything!
+Doomers: This will ruin everything.
+Tech: We need money!
+Everyone else: Could we maybe not destroy the environment over this?
+Tech: Lets restart Three Mile Island.
+Tech: We need money!
+Wall Street: Wheres our return?
+Tech: (Chants) More power! More power! More power!
+And finally, in the year 2025, here comes DeepSeek to blow up the industrys whole narrative about AIs bottomless appetite for power, and potentially break the spell that had kept Wall Street funneling money to anyone with the words harnessing artificial intelligence in their pitch deck.
+
+ICYMI: DeepSeek dropped a bomb known as R1 thats got all of Silicon Valley and much of Wall Street in a tizzy.
+
+The Chinese companys large language model is basically a cheaper, more efficient ChatGPT, built on a fraction of OpenAIs budget and using far fewer chips than any other leading chatbot.
+
+That is a massive earthquake in the AI sector, Gil Luria, head of tech research at investment group D.A. Davidson, told me. Everybody is looking at it and saying, We didnt think this is possible. And since it is possible, we have to rethink everything that we have been planning.
+
+This photo illustration shows the DeepSeek app on a mobile phone in Beijing
+Related article
+What is DeepSeek, the Chinese AI startup that shook the tech world?
+
+Suddenly, all that money and computing power that the Sam Altmans, Mark Zuckerbergs and Elon Musks have been saying are crucial to their AI projects  and thus Americas continued leadership in the industry  may end up being wildly overblown.
+
+DeepSeek, which on Monday climbed to No. 1 on the Apple app store, claims to have built its base model for less than $6 million (versus the more than $100 million Altman has said it cost to build GPT-4).
+
+It also claims to have used just 2,000 Nvidia chips that it obtained before US export restrictions were put in place. (OpenAI says it used 25,000 of the more powerful Nvidia H100 chips to build GPT-4.)
+
+Its awkward timing for the Trump administration, which last week announced a half-trillion-dollar private-sector investment to build more data centers and keep the United States ahead of China in the AI race. (Oops!)
+
+And its incredibly bad news for Nvidia, the American chip maker powering the AI gold rush. Nvidia shares sank 17% Monday, shedding $600 billion in market cap in a single session  the biggest one-day loss for a single stock in history. Alphabet, Microsoft, Oracle, TSMC and plenty of others sank, and because tech stocks are so dominant, that dragged the broader stock market down, too.
+
+The tech-heavy Nasdaq plunged by 3% and the broader S&P 500 fell 1.5%. (The Dow, buoyed by health care and consumer companies, ended the day up less than 1%.)
+
+AI is over, long live AI
+Of course, one bad day on Wall Street does not an apocalypse make. (Thats for later, when one of these AI labs creates superintelligent murder bots. Kidding! Kind of.)
+
+But DeepSeek is forcing investors to take a beat and question tech companies assumptions. By its own reasoning, the AI industry needed to keep increasing compute (or computational power), which meant buying tens of thousands of Nvidias state-of-the-art chips and building giant data centers.
+
+DeepSeek makes it very clear that that the current trajectory of scaling up of data centers is highly unlikely to be economic to Nvidias customers, Luria said.
+
+The AI industry, and OpenAI in particular, has been going down two paths at once.
+
+Theres the business of designing AI models with better algorithms and sounder reasoning  the kind of stuff that requires finesse, as opposed to brute force, Luria says. And then theres the Stargate path of giant energy investments.
+
+The first task is still valid and important, while the second path looks ridiculous, Luria said. DeepSeek makes it clear that that scale and that spend would be, at the very least, wasteful.
+
+In other words, AI isnt dead. But the landscape is shifting faster than anyone, perhaps most of all Nvidia, expected.
+
+Picks and shovels
+Nvidia has become the ultimate picks and shovels play on Wall Street, transforming it into a $3 trillion company in the span of a couple of years. Up until now, the demand for Nvidia chips appeared boundless  tech companies were going to keep gobbling them up faster than Nvidia could produce them.
+
+But if DeepSeek really did manage to build a ChatGPT competitor using a handful of old processors, then maybe Nvidias tech customers soon wont need as many as theyd thought. Many on Wall Street seemed to think so Monday as the stock went into a tailspin. (For its part, Nvidia seemed to shrug at the selloff in a statement to Bloomberg, calling DeepSeeks model an excellent AI advancement that illustrates how new models can be created.)
+
+Its also good to keep in mind that Wall Street is prone to tantrums, which is how some tech investors chalked up Mondays selloff.
+
+At the end of the day, there is only one chip company in the world launching autonomous, robotics, and broader AI use cases, and that is Nvidia, Wedbush analysts wrote in a letter to clients. Launching a competitive LLM model for consumer use cases is one thing launching broader AI infrastructure is a whole other ballgame, and nothing with DeepSeek makes us believe anything different.
+   Bud1                                                                       0 2 5 - 0 2                                           C N N 2 0 2 5 - 0 2 - 1 4 . d o c xIlocblob        .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                @                                              @                                                @                                                @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   E                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          DSDB                                 `                                                   @                                                @                                                @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              DeepSeek is giving the world a window into Chinese censorship and information control
+ 
+Previously little-known Chinese startup DeepSeek has dominated headlines and app charts in recent days thanks to its new AI chatbot, which sparked a global tech sell-off that wiped billions off Silicon Valleys biggest companies and shattered assumptions of Americas dominance of the tech race.
+
+But those signing up for the chatbot and its open-source technology are being confronted with the Chinese Communist Partys brand of censorship and information control.
+
+Ask DeepSeeks newest AI model, unveiled last week, to do things like explain who is winning the AI race, summarize the latest executive orders from the White House or tell a joke and a user will get similar answers to the ones spewed out by American-made rivals OpenAIs GPT-4, Metas Llama or Googles Gemini.
+
+Yet when questions veer into territory that would be restricted or heavily moderated on Chinas domestic internet, the responses reveal aspects of the countrys tight information controls.
+
+Using the internet in the worlds second most populous country is to cross whats often dubbed the Great Firewall and enter a completely separate internet eco-system policed by armies of censors, where most major Western social media and search platforms are blocked. The country routinely ranks among the most restrictive for internet and speech freedoms in reports from global watchdogs.
+
+The international popularity of Chinese apps like TikTok and RedNote have already raised national security concerns among Western governments  as well as questions about the potential impact to free speech and Beijings ability to shape global narratives and public opinion.
+
+Now, the introduction of DeepSeeks AI assistant  which is free and rocketed to the top of app charts in recent days  raises the urgency of those questions, observers say, and spotlights the online ecosystem from which they have emerged.
+
+Not sure how to approach this type of question
+One example of a question DeepSeeks new bot, using its R1 model, will answer differently than a Western rival? The Tiananmen Square massacre on June 4, 1989, when the Chinese government brutally cracked down on student protesters in Beijing and across the country, killing hundreds if not thousands of students in the capital, according to estimates from rights groups.
+
+Chinese authorities have so thoroughly suppressed discussion of the massacre in the decades since that many people in China grow up never having heard about it. A search for what happened on June 4, 1989 in Beijing on major Chinese online search platform Baidu turns up articles noting that June 4 is the 155th day in the Gregorian calendar or a link to a state media article noting authorities that year quelled counter-revolutionary riots  with no mention of Tiananmen.
+
+When the same query is put to DeepSeeks newest AI assistant, it begins to give an answer detailing some of the events, including a military crackdown, before erasing it and replying that its not sure how to approach this type of question yet. Lets chat about math, coding and logic problems instead, it says. When asked the same question in Chinese, the app is faster  immediately apologizing for not knowing how to answer.
+
+Its a similar patten when asking the R1 bot  DeepSeeks newest model  what happened in Hong Kong in 2019, when the city was rocked by pro-democracy protests. First it gives a detailed overview of events with a conclusion that at least during one test noted  as Western observers have  that Beijings subsequent imposition of a National Security Law on the city led to a significant erosion of civil liberties. But quickly after or amid its response, the bot erases its own answer and suggests talking about something else.
+
+This screengrab shows Chinese hedge fund manager Liang Wenfeng, who founded DeepSeek, in a symposium with Chinese Premier Li Qiang in Beijing on January 20, 2025.
+Related article
+China celebrates DeepSeeks breakout AI success as tech race heats up
+
+DeepSeeks V3 bot, released late last year weeks prior to R1, returns different answers, including ones that appear to rely more heavily on Chinas official stance.
+
+When asked about its sources, DeepSeeks R1 bot said it used a diverse dataset of publicly available texts, including both Chinese state media and international sources. Critical thinking and cross-referencing remain key when navigating politically charged subjects, it said. CNN has approached the company for comment.
+
+
+How Chinas DeepSeek app compares to ChatGPT
+02:48
+Controlling the narrative?
+Observers say that these differences have significant implications for free speech and the shaping of global public opinion. That spotlights another dimension of the battle for tech dominance: who gets to control the narrative on major global issues, and history itself.
+
+An audit by US-based information reliability analytics firm NewsGuard released Wednesday said DeepSeeks older V3 chatbot model failed to provide accurate information about news and information topics 83% of the time, ranking it tied for 10th out of 11 in comparison to its leading Western competitors. Its not clear how the newer R1 stacks up, however.
+
+DeepSeek becoming a global AI leader could have catastrophic consequences, said China analyst Isaac Stone Fish.
+
+It would be incredibly dangerous for free speech and free thought globally, because it hives off the ability to think openly, creatively and, in many cases, correctly about one of the most important entities in the world, which is China, said Fish, who is the founder of business intelligence firm Strategy Risks.
+
+Thats because the app, when asked about the country or its leaders, present China like the utopian Communist state that has never existed and will never exist, he added.
+
+In mainland China, the ruling Chinese Communist Party has ultimate authority over what information and images can and cannot be shown  part of their iron-fisted efforts to maintain control over society and suppress all forms of dissent. And tech companies like DeepSeek have no choice but to follow the rules.
+
+Chinese artificial intelligence startup DeepSeek is forcing Silicon Valley to reconsider its plans for developing AI technology.
+Related article
+Why DeepSeek could mark a turning point for Silicon Valley on AI
+
+Because the technology was developed in China, its model is going to be collecting more China-centric or pro-China data than a Western firm, a reality which will likely impact the platform, according to Aaron Snoswell, a senior research fellow in AI accountability at the Queensland University of Technology Generative AI Lab.
+
+The company itself, like all AI firms, will also set various rules to trigger set responses when words or topics that the platform doesnt want to discuss arise, Snoswell said, pointing to examples like Tiananmen Square.
+
+In addition, AI companies often use workers to help train the model in what kinds of topics may be taboo or okay to discuss and where certain boundaries are, a process called reinforcement learning from human feedback that DeepSeek said in a research paper it used.
+
+That means someone in DeepSeek wrote a policy document that says, here are the topics that are okay and here are the topics that are not okay. They gave that to their workers  and then that behavior would have been embedded into the model, he said.
+
+US AI chatbots also generally have parameters  for example ChatGPT wont tell a user how to make a bomb or fabricate a 3D gun, and they typically use mechanisms like reinforcement learning to create guardrails against hate speech, for example.
+
+Thats how every other company makes these models behave better, Snoswell said.
+
+But its just that in this case, chances are that a Chinese company embedded (Chinas official) values into their policy.
+
+Security concerns
+There have also been questions raised about potential security risks linked to DeepSeeks platform, which the White House on Tuesday said it was investigating for national security implications.
+
+Concerns about American data being in the hands of Chinese firms is already a hot button issue in Washington, fueling the controversy over social media app TikTok. The apps Chinese parent company ByteDance is being required by law to divest TikToks American business, though the enforcement of this was paused by Trump.
+
+Unlike TikTok, which says as of July 2022 it stores all American data in the US, DeepSeek says in its privacy policy that personal information it collects is stored in secure servers located in the Peoples Republic of China.
+
+A comparison of privacy policies between DeepSeek and some of its US competitors also show concerning differences, according to Snoswell.
+
+Each DeepSeek, OpenAI and Meta say they collect peoples data such as from their account information, activities on the platforms and the devices theyre using. But DeepSeek adds that it also collects keystroke patterns or rhythms, which can be as uniquely identifying as a fingerprint or facial recognition and used a biometric.
+
+Ive never seen another software platform that says they collect that unless its designed for (those purposes), Snoswell said. He also noted what appeared to be vaguely defined allowances for sharing of user data to entities within DeepSeeks corporate group.
+
+Its way, way more permissive than anything youd see from a Western software company, he said.
+
+﻿AI giants Baidu, OpenAI offer their chatbots for free in response to DeepSeek’s advance
+Chinese internet search giant Baidu will make its advanced AI chatbot services free, as competition heats up among global developers following the surging popularity of startup DeepSeek’s models.
+
+Ernie Bot, the Beijing-based company’s AI chatbot with premium features like AI painting, will be available to both mobile and desktop users at no cost starting from April 1, it posted on WeChat on Thursday.
+
+Just hours before Baidu’s announcement, OpenAI CEO Sam Altman announced the roadmap of its newest AI model, GPT-5, on X. He said ChatGPT users will have unlimited access to GPT-5 free of charge, though paid subscribers will be able to access a “higher level of intelligence.”
+
+On Friday, Baidu said in another post that it plans to launch the next generation of its AI model by the end of June. And for the first time, it would make that edition of the model open source, like all of DeepSeek’s models.
+
+It added that Ernie’s Deep Search function, featuring enhanced reasoning capabilities and expert-level responses, will also launch for free in April.
+
+The successive announcements reflect the squeeze that Baidu and other firms face in the intensifying AI race in China, particularly following DeepSeek’s recent release. The Chinese startup’s latest R1 AI model stunned the world by delivering comparable performance to US-based industry behemoths at significantly lower cost.
+
+Baidu’s Hong Kong-listed stock jumped as much as 12% on Thursday and last traded around 95 Hong Kong dollars ($12.20) per share on Friday. A component of the Hang Seng China Enterprises Index, it has helped power the index up 20% since January.
+
+An Alibaba Group sign is seen at the World Artificial Intelligence Conference in Shanghai, China, on  July 6, 2023.
+Related article
+Apple picks Alibaba to launch AI features in China
+
+ChatGPT’s debut in late 2022 enraptured the globe overnight and sent Chinese tech giants scrambling for a homegrown alternative. Baidu was one of the leading contenders in China’s AI scene, releasing its answer to ChatGPT within four months and was ahead of other established tech heavy weights like Tencent and Alibaba.
+
+But Baidu has trailed behind competitors like ByteDance’s Doubao in terms of popularity and the number of active users. Alibaba says Apple had chosen to work with it to roll out its AI functions in China after considering multiple Chinese AI firms, including Baidu.
+
+Lots of contenders
+China’s OG tech giants have lost the AI limelight in recent months to emerging startups like DeepSeek and Beijing-based Moonshot AI, which have released models that punch above their weight.
+
+Moonshot AI first launched its ChatGPT equivalent, Kimi, late last year. It was the third-most visited AI Chatbot in China after DeepSeek and Doubao in January, according to aircpb.com, an AI product tracker.
+
+Other promising Chinese AI companies include Zhipu AI, a startup originating from Beijing’s prestigious Tsinghua University. Based in the Chinese capital, Zhipu is backed by Tencent and Alibaba and has strong government ties. The US Commerce Department last month added Zhipu to its “Entity List,” accusing the company of supporting the Chinese military, which it has denied.
+
+Most major AI large language models — including Ernie Bot, OpenAI’s ChatGPT and American startup Anthropic’s Claude — have offered their basic chatbot services for free.
+
+ChatGPT debuted without charging before it began to offer premium features on subscription.
+
+In 2023, Baidu launched paid premium functions for its AI service, including its text to image generator, charging users from up to 59.9 yuan ($8.2) a month. Ernie Bot has amassed 430 million users as of November 2024, according to Baidu.
+﻿What is DeepSeek, the Chinese AI startup that shook the tech world?
+A surprisingly efficient and powerful Chinese AI model has taken the technology industry by storm. It’s called DeepSeek R1, and it’s rattling nerves on Wall Street.
+
+The new AI model was developed by DeepSeek, a startup that was born just a year ago and has somehow managed a breakthrough that famed tech investor Marc Andreessen has called “AI’s Sputnik moment”: R1 can nearly match the capabilities of its far more famous rivals, including OpenAI’s GPT-4, Meta’s Llama and Google’s Gemini — but at a fraction of the cost.
+
+The company said it had spent just $5.6 million powering its base AI model, compared with the hundreds of millions, if not billions of dollars US companies spend on their AI technologies. That’s even more shocking when considering that the United States has worked for years to restrict the supply of high-power AI chips to China, citing national security concerns. That means DeepSeek was supposedly able to achieve its low-cost model on relatively under-powered AI chips.
+
+What is DeepSeek?
+The company, founded in late 2023 by Chinese hedge fund manager Liang Wenfeng, is one of scores of startups that have popped up in recent years﻿ seeking big investment to ride the massive AI wave that has taken the tech industry to new heights.
+
+Liang has become the Sam Altman of China — an evangelist for AI technology and investment in new research. His hedge fund, High-Flyer, focuses on AI development.
+
+Like other AI startups, including Anthropic and Perplexity, DeepSeek released various competitive AI models over the past year that have captured some industry attention. Its V3 model raised some awareness about the company, although its content restrictions around sensitive topics about the Chinese government and its leadership sparked doubts about its viability as an industry competitor, the Wall Street Journal reported.
+
+But R1, which came out of nowhere when it was revealed late last year, launched last week and gained significant attention this week when the company revealed to the Journal its shockingly low cost of operation. And it is open-source, which means other companies can test and build upon the model to improve it.
+
+The DeepSeek app has surged on the app store charts, surpassing ChatGPT Monday, and it has been downloaded nearly 2 million times.
+
+Why is DeepSeek such a big deal?
+AI is a power-hungry and cost-intensive technology — so much so that America’s most powerful tech leaders are buying up nuclear power companies to provide the necessary electricity for their AI models.
+
+Meta last week said it would spend upward of $65 billion this year on AI development. Sam Altman, CEO of OpenAI, last year said the AI industry would need trillions of dollars in investment to support the development of high-in-demand chips needed to power the electricity-hungry data centers that run the sector’s complex models.
+
+So the notion that similar capabilities as America’s most powerful AI models can be achieved for such a small fraction of the cost — and on less capable chips — represents a sea change in the industry’s understanding of how much investment is needed in AI. The technology has many skeptics and opponents, but its advocates promise a bright future: AI will advance the global economy into a new era, they argue, making work more efficient and opening up new capabilities across multiple industries that will pave the way for new research and developments.
+
+Andreessen, a Trump supporter and co-founder of Silicon Valley venture capital firm Andreessen Horowitz, called DeepSeek “one of the most amazing and impressive breakthroughs I’ve ever seen,” in a post on X.
+
+If that potentially world-changing power can be achieved at a significantly reduced cost, it opens up new possibilities — and threats — to the planet.
+
+What does this mean for America?
+The United States thought it could sanction its way to dominance in a key technology it believes will help bolster its national security. Just a week before leaving office, former President Joe Biden doubled down on export restrictions on AI computer chips to prevent rivals like China from accessing the advanced technology.
+
+But DeepSeek has called into question that notion, and threatened the aura of invincibility surrounding America’s technology industry. America may have bought itself time with restrictions on chip exports, but its AI lead just shrank dramatically despite those actions.
+
+DeepSeek may show that turning off access to a key technology doesn’t necessarily mean the United States will win. That’s an important message to President Donald Trump as he pursues his isolationist “America First” policy.
+
+Wall Street was alarmed by the development. US stocks were set for a steep selloff Monday morning. Nvidia (NVDA), the leading supplier of AI chips, whose stock more than doubled in each of the past two years, fell 12% in premarket trading. Meta (META) and Alphabet (GOOGL), Google’s parent company, were also down sharply, as were Marvell, Broadcom, Palantir, Oracle and many other tech giants.
+
+Are we really sure this is a big deal?
+The industry is taking the company at its word that the cost was so low. No one is really disputing it, but the market freak-out hinges on the truthfulness of a single and relatively unknown company. The company notably didn’t say how much it cost to train its model, leaving out potentially expensive research and development costs. (Still, it probably didn’t spend billions of dollars.)
+
+It’s also far too early to count out American tech innovation and leadership. One achievement, albeit a gobsmacking one, may not be enough to counter years of progress in American AI leadership. And a massive customer shift to a Chinese startup is unlikely.
+
+“The DeepSeek model rollout is leading investors to question the lead that US companies have and how much is being spent and whether that spending will lead to profits (or overspending),” said Keith Lerner, analyst at Truist. “Ultimately, our view, is the required spend for data and such in AI will be significant, and US companies remain leaders.”
+
+Although the cost-saving achievement may be significant, the R1 model is a ChatGPT competitor — a consumer-focused large-language model. It hasn’t yet proven it can handle some of the massively ambitious AI capabilities for industries that — for now — still require tremendous infrastructure investments.
+
+“Thanks to its rich talent and capital base, the US remains the most promising ‘home turf’ from which we expect to see the emergence of the first self-improving AI,” said Giuseppe Sette, president of AI market research firm Reflexivity.
+The real reason behind the DeepSeek hype, according to AI experts
+DeepSeek turned the tech world on its head last month  and for good reason, according to artificial intelligence experts, who say were likely only seeing the beginning of the Chinese tech startups influence on the AI field.
+
+DeepSeek grabbed headlines in late January with its R1 AI model, which the company says can roughly match the performance of Open AIs o1 model at a fraction of the cost. Tech stocks tumbled as DeepSeek briefly unseated ChatGPT to become the top app in Apples App Store.
+
+The achievement pushed US tech behemoths to question Americas standing in the AI race against China  and the billions of dollars behind those efforts. While Vice President JD Vance didnt mention DeepSeek or China by name in his remarks at the Artificial Intelligence Action Summit in Paris on Tuesday, he certainly emphasized how big of a priority it is for the United States to lead the sector.
+
+The United States of America is the leader in AI, and our administration plans to keep it that way, he said, although he added that America wants to partner with other countries.
+
+But its not just DeepSeeks efficiency and power. The way DeepSeek R1 can reason and think through answers to provide quality results, along with the companys decision to make key parts of its technology publicly available, will also push the field forward, experts say.
+
+While AI has long been used in tech products, its reached a flashpoint over the last two years thanks to the rise of ChatGPT and other generative AI services that have reshaped the way people work, communicate and find information. Its made Wall Street darlings out of companies like chipmaker Nvidia and upended the trajectory of Silicon Valley giants. So any development that can help build more capable and efficient models is sure to be closely watched.
+
+This is definitely not hype, said Oren Etzioni, former CEO of the Allen Institute for Artificial Intelligence. But also, this is a very fast-moving world.
+
+AIs TikTok moment
+Tech leaders have been quick to respond to DeepSeeks rise. Google DeepMind CEO Demis Hassabis called the hype around DeepSeek exaggerated, but also said its model as probably the best work Ive seen come out of China, according to CNBC.
+
+Microsoft CEO Satya Nadella said on the companys quarterly earnings call in January that DeepSeek has some real innovations, while Apple CEO Tim Cook said on the iPhone makers earnings call that innovation that drives efficiency is a good thing.
+
+But the attention hasnt all been positive. Semiconductor researcher SemiAnalysis cast doubt over DeepSeeks claims that it only cost $5.6 million to train. OpenAI told The Financial Times it found evidence that DeepSeek used the US companys models to train its own competitor.
+
+We are aware of and reviewing indications that DeepSeek may have inappropriately distilled our models, and will share information as we know more, an OpenAI spokesperson said in a comment to CNN. DeepSeek could not immediately be reached for comment.
+
+And a pair of US lawmakers has already called for the app to be banned from government devices after security researchers highlighted its potential links to the Chinese government, as the Associated Press and ABC News reported. Similar concerns have been raised about the popular social media app TikTok, which must be sold to an American owner or risk being banned in the US.
+
+DeepSeek is the TikTok of (large language models), Etzioni said.
+
+DeepSeeks deep impression on the tech world
+Tech giants are already thinking about how DeepSeeks technology can influence their products and services.
+
+What DeepSeek gave us was essentially the recipe in the form of a tech report, but they didnt give us the extra missing parts, said Lewis Tunstall, a senior research scientist at Hugging Face, an AI platform that offers tools for developers.
+
+Tunstall is leading an effort at Hugging Face to fully open source DeepSeeks R1 model; while DeepSeek provided a research paper and the models parameters, it didnt reveal the code or training data.
+
+Nadella said on Microsofts earnings call that Windows Copilot+ PCs, or PCs built to a certain spec to support AI models, will be able to run AI models distilled from DeepSeek R1 locally. Mobile chipmaker Qualcomm said on Tuesday that models distilled from DeepSeek R1 were running on smartphones and PCs powered by its chips within a week.
+
+AI researchers, academics and developers are still exploring what DeepSeek means for the advancement of AI.
+
+DeepSeeks model isnt the only open-source one, nor is it the first to be able to reason over answers before responding; OpenAIs o1 model from last year can do that, too.
+
+What makes DeepSeek significant is the way it can reason and learn from other models, along with the fact that the AI community can see whats happening behind the scenes. Those who use the R1 model in DeepSeeks app can also see its thought process as it answers questions.
+
+You can see the wheels turning inside the machine, Durga Malladi, senior vice president and general manager for technology planning and edge solutions at Qualcomm, said to CNN.
+
+Tunstall thinks we may see a wave of new models that can reason like DeepSeek in the not-too-distant future. That could be critical as tech giants race to build AI agents, which Silicon Valley generally believes are the next evolution of the chatbot and how consumers will interact with devices  although that shift hasnt quite happened yet.
+
+Grok 3, the next iteration of the chatbot on the social media platform X, will have very powerful reasoning capabilities, its owner, Elon Musk, said on Thursday in a video appearance during the World Governments Summit.
+
+For now, the AI community will keep tinkering with what DeepSeek has to offer. That is, until the next breakthrough comes along.
+
+I certainly predict that in the next 12 months, itll be supplanted by something else, said Etzioni. But its a very real advance.
+DeepSeek chaos suggests America First may not always win
+The stunning rise of DeepSeek is sending shockwaves through the artificial intelligence world, threatening Americas dominance that seemed set in stone just a week ago.
+
+The fact that a little-known Chinese startup has built a model that can compete with leading US AI systems is challenging the conventional wisdom that it takes gobs of money and unlimited access to cutting-edge computer chips to train AI technology. It shouldnt really be possible for a Chinese AI startup to go toe-to-toe with OpenAIs GPT-4o and Googles Gemini.
+
+Now, President Donald Trump has to decide how to respond.
+
+The United States has imposed tough restrictions that are designed to prevent Chinese firms from buying or building their own cutting-edge computer chips required to train AI models. These chips are at the heart of the AI arms race and the goal of the export curbs is to prevent China from keeping up.
+
+Some have argued that DeepSeeks success  it claims to have trained its new AI model R1 at a fraction of the cost and on far fewer high-end chips than leading AI models  shows the Biden and first Trump administrations export curbs have backfired: These tough restrictions may have backed Beijing into a corner, forcing Chinese firms to come up with ways to innovate around the export curbs or build their own chips.
+
+Rather than impeding China, these AI export controls may be accelerating Chinas AI capacity by pushing them to innovate, John Villasenor, a professor of engineering and law at UCLA, told CNN in a phone interview. The export controls, arguably, are counterproductive.
+
+That would be a blow to the tough crackdowns under both Trump and former President Joe Biden  and the ones envisioned during this new Trump administration.
+
+We accidentally upped their technical game, AI researcher Gary Marcus wrote in a Substack post. It is clear that the game has changed.
+
+That notion  that punishing restrictions may have had the opposite effect as the United States intended  is raising tough questions about the very foundation of the AI boom, the tech arms race between the United States and China and how the Trump administration should respond.
+
+The AI house of cards theory
+Trump may be unswayed.
+
+I think Trump doubles down, said Ed Mills, Washington policy analyst at Raymond James, noting that Trump has surrounded himself with China hawks, such as Secretary of State Marco Rubio. His advisers around him point to more restrictions, not less.
+
+If Trump adds even more pressure on China over AI, proponents of a more hawkish strategy believe Chinas house of AI cards may crumble. Skeptics say its not clear how much of a gamechanger DeepSeek is. They argue its success could have been made possible either stockpiling high-end chips before restrictions were imposed or by buying the semiconductors on the black market.
+
+It is either a Sputnik Moment or a Potemkin Moment, Jeffrey Sonnenfeld, senior associate dean for leadership studies at the Yale School of Management, told CNN in an email. It is either truly disruptive or deceptive, relying on hoarded Nvidia chips and others before the export sanction.
+
+Sonnenfeld added that if it is a Sputnik-style disruption, it is a blow to pure reliance on competitive private markets without government partnership and national industrial policies.
+
+Scale AI CEO Alexandr Wang told CNBC that he understands DeepSeek has 50,000 leading-edge chips that they cant talk about, obviously, because it is against the export controls that the United States has put in place.
+
+Art Hogan, chief market strategist at B. Riley Wealth Management, urged investors to take DeepSeeks claims with a grain of salt because there is no concrete proof to back them up.
+
+China is claiming it has come up with the silver bullet, but it could be like the guy in high school who says he has a girlfriend, but shes just at a different school, Hogan said in a phone interview, noting that there has long been skepticism among Western economists about the veracity of Chinas economic statistics.
+
+If DeepSeek did have access to leading edge chips, that supports the argument that the export controls should be toughened. Mills notes that there is a very active black market for high-end chips and enforcement of export controls has been uneven.
+
+This has been a game of whack-a-mole, Mills said. There are still glaring loopholes that need to be closed.
+
+For example, Mills pointed to the need for more robust enforcement and further restrictions on the flow of leading-edge computer chips.
+
+Jake Sullivan, the US National Security Adviser under Biden, has acknowledged that the export controls are a work in progress.
+
+This is an iterative process. We learn, they learn. We learn, they learn, Sullivan said in May during a fireside chat.
+
+Sullivan also noted that China has tried to overwhelm export controls by projecting an air of inevitability to its AI ambitions.
+
+The PRC has embarked on a massive and relentless information campaign to basically say, This is futile. Resistance is futile.
+We will break these controls, Sullivan said.
+
+The stakes are massive.
+
+Many in Washington were well aware that the United States is in an AI arms race. But that race may be a bit closer, and perhaps significantly cheaper, than previously known.
+
+
+A pair of US lawmakers are seeking to ban government workers from using Chinese startup DeepSeeks artificial intelligence chatbot on official devices.
+
+Reps. Darin LaHood, a Republican from Illinois, and Josh Gottheimer, a New Jersey Democrat, are set to propose legislation on Friday that would ban the use of DeepSeek on government devices over national security concerns.
+
+DeepSeek is just the latest target in a larger battle for tech supremacy between the United States and China.
+
+The attempted crackdown comes weeks after DeepSeek shocked Silicon Valley and Wall Street by releasing an advanced AI model, called R1, with the same capabilities as top American models, despite being cheaper to train and less power-hungry. The model  from a year-old Chinese startup subject to US export restrictions on the most powerful AI chips  has fueled concerns that the United States could fall behind China in AI.
+
+Chinese artificial intelligence startup DeepSeek is forcing Silicon Valley to reconsider its plans for developing AI technology.
+If passed, the proposed bill would give 60 days for government agencies to develop standards and guidelines for removing DeepSeek  as well as any other app developed by its parent company, High Flyer  from official devices.
+
+The proposal follows similar moves by Australia, Italy and Taiwan.
+
+DeepSeek did not respond to a request for comment.
+
+The language in the proposed bill also echoes the legislation that has sought to restrict access to TikTok in the United States over worries that its China-based owner, ByteDance, could be forced to share sensitive US user data with the Chinese government.
+
+Federal and state government agencies began banning the use of TikTok on official devices starting in 2022. And ByteDance now has fewer than 60 days to sell the app before TikTok is banned in the United States, because of a law that was passed with bipartisan support last year and extended by President Donald Trump in January.
+
+The Chinese Communist Party has made it abundantly clear that it will exploit any tool at its disposal to undermine our national security, spew harmful disinformation, and collect data on Americans, Gottheimer said in a statement. We simply cant risk the CCP infiltrating the devices of our government officials and jeopardizing our national security  Weve seen Chinas playbook before with TikTok, and we cannot allow it to happen again.
+
+Many AI companies use the inputs from users conversations with chatbots to train and improve their models, stoking privacy concerns. But security experts have already cautioned that DeepSeek could pose a bigger risk because of its Chinese owner.
+
+Users need to be aware that any data shared with the platform could be subject to government access under Chinas cybersecurity laws, which mandate that companies provide access to data upon request by authorities, NordVPN cybersecurity expert Adrianus Warmenhoven said in emailed commentary.
+China celebrates DeepSeeks breakout AI success as tech race heats up
+
+People across China are hailing the success of homegrown tech startup DeepSeek and its founder, after the companys newest artificial intelligence model sent shock waves through Silicon Valley and Wall Street.
+
+DeepSeek overturns the US stocks overnight one trending hashtag with tens of millions of views proclaimed on Chinese social media platform Weibo. DeepSeek makes Meta panic, said another, in reference to the US tech giant thats invested heavily in developing its own AI models.
+
+More than a dozen hashtags related to the cutting-edge technology were trending on Weibo early this week as DeepSeek surged to the top of international app store charts, surpassing American company OpenAIs ChatGPT on Monday.
+
+DeepSeek founder Liang Wenfeng was also hailed as a tech visionary who could help China usher in a culture of innovation to rival that of Silicon Valley.
+
+The engineer-turned-entrepreneur, who rarely gives interviews, is known for hiring only domestic talent and keeping his AI models open source, allowing other companies or users to test and build upon the model.
+
+Liang, a co-founder of AI-oriented hedge fund High-Flyer Quant, founded DeepSeek in 2023. The startups newest model DeepSeek R1, unveiled on January 20, can nearly match the capabilities of its far more famous American rivals, including OpenAIs GPT-4, Metas Llama and Googles Gemini. However, it cost less than $6 million to build, the company claims  a fraction of the investment from those other firms.
+
+Famed tech investor Marc Andreessen hailed the model as a Sputnik moment and US President Donald Trump on Monday called the breakthrough a wake-up call for America in its rivalry with China. Technological dominance, especially in AI, has become a key battleground between the two powers, with the US in recent years limiting Chinese firms access to chips that could power rapid AI development.
+
+Analysts say that more information is needed to verify DeepSeeks claims about its products pricetag and point out that the app operates within the stringent restrictions on speech and information imposed by the Chinese government. That means its AI assistants answers to questions on the Tiananmen Square massacre or Hong Kongs pro-democracy protests will mirror Beijings line  or a response will be declined altogether.
+
+But for many in China, the success of the technology  and Liangs vision and ethos for DeepSeek  mark a significant step forward for the country in a competitive international arena.
+
+No matter how powerful the old guard is, they may be overturned overnight, read one triumphant comment on Weibo with over a thousand likes.
+
+(Liangs) achievements  can be called a national destiny, another read.
+
+CNN has reached out to Liang, DeepSeek and High-Flyer Quant for comment.
+
+Changing the rules of the game
+Born in the 1980s as the son of a primary school teacher, Liang grew up in a small city in Chinas southern province of Guangdong. He went on to study information and electronic engineering at Zhejiang University, a prestigious school in Chinas eastern tech hub Hangzhou, according to Chinese state media.
+
+Early business associates interviewed by state-linked financial outlet Yicai in recent days remembered the future DeepSeek founder as a bit nerdy and recalled a terrible haircut he sported in the past.
+
+Liang talked about his idea of training large AI models and changing the rules of the game, but no one took him seriously, the outlet reported, without naming the early associates. Such feats were typically only deemed possible for Chinas tech giants like ByteDance or Alibaba, it said.
+
+Liang co-founded his AI-oriented hedge fund High-Flyer Quant in 2015, less than decade after he finished his undergraduate studies, according to state media reports. The fund incorporates AI machine learning models into its operations, according to the companys website.
+
+Traders and financial professionals work on the floor of the New York Stock Exchange (NYSE) during the first session of the new year on January 2, 2025, in New York City.
+Related article
+A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging
+
+At the same time, the firm was amassing computing power into a basketball courtsized AI supercomputer, becoming among the top companies in China in terms of processing capabilities  and the only one that was not a major tech giant, according to state-linked outlet The Paper.
+
+In 2023, Liang founded DeepSeek, with a focus on advancing the field of general artificial intelligence  and, apparently, revamping Chinas culture around innovation.
+
+We often say theres a one or two-year gap between China and the US, but the real gap is between originality and imitation. If this doesnt change, China will always be a follower, Liang said in a rare media interview with the finance and tech-focused Chinese media outlet 36Kr last July.
+
+The rise of DeepSeek roughly coincides with the wind-down of a heavy-handed state crackdown on the countrys tech giants by authorities seeking to re-assert control over a cohort of innovative private firms that had grown too powerful in the governments eyes.
+
+But Beijing has also placed tremendous emphasis on cultivating technological prowess, with Chinese leaders vowing over the past year to boost self-reliance and strength in technology  especially in the face of mounting tech competition with the United States.
+
+Liang appeared to reference difficulties posed by US tech export controls  saying in the 36Kr interview last year that his companys challenges have not been about money, but the embargo on high-end chips.
+
+But he also expressed optimism about Chinas ability to compete in the future.
+
+When society allows hardcore innovators to succeed, collective thinking will change. We just need more concrete examples and processes, Liang told the outlet.
+
+We dont do mediocre
+The company, which has teams in Beijing and Hangzhou, has remained small, with just under 140 researchers and engineers, according to state media  a far cry from the large firms both in China and the US that have led the creation of AI models.
+
+DeepSeeks employees have been recruited domestically, Liang said in the same interview last year, describing his team as fresh graduates and doctorate students from top Chinese universities.
+
+The top 50 talents may not be in China, but maybe we can create such people ourselves, he told 36Kr, noting that the work is divided naturally by who has what strengths. Innovation first requires confidence. This confidence is usually more obvious in young people, he added.
+
+This photo illustration shows the DeepSeek app on a mobile phone in Beijing
+Related article
+What is DeepSeek, the Chinese AI startup that shook the tech world?
+
+Zihan Wang, a former DeepSeek employee now studying in the US, told MIT Technology Review in an interview published this month that the company offered a luxury that few fresh graduates would get at any company - access to abundant computing resources and the freedom to experiment.
+
+The whole team shared a collaborative culture around research, Wang said.
+
+Active recruitment ads on the DeepSeek website and major job seeking sites show the company hiring deep learning researchers, engineers, and user interface designers.
+
+Among them, the highest paid engineers positions are listed with a monthly salary range of up to 90,000 yuan ($12,400). By comparison, the higher end of the base pay for a Google software engineer is upwards of $29,000, according to tech industry salary insight platform levels.fyi.
+
+A post on DeepSeeks official Wechat social media account declares that the companys devotion is to exploring the essence of AGI or artificial general intelligence. We dont do mediocre things and answer the biggest questions with curiosity and a far-reaching vision, the post added.
+
+Australia bans DeepSeek on government devices over security concerns
+Australia has banned DeepSeek from all government devices over concerns that the Chinese artificial intelligence startup behind it poses security risks, the government said Tuesday.
+
+The Secretary of the Department of Home Affairs issued a mandatory direction for all government entities to prevent the use or installation of DeepSeek products, applications and web services and, where found, remove all existing instances of DeepSeek products, applications and web services from all Australian government systems and devices, the statement said.
+
+Home Affairs Minister Tony Burke said DeepSeek posed an unacceptable risk to government technology and the immediate ban was to protect Australias national security and national interest, several Australian media outlets reported Tuesday evening.
+
+The ban does not extend to devices of private citizens.
+
+This photo illustration shows the DeepSeek app on a mobile phone in Beijing
+
+Tech stocks worldwide plunged after the launch of DeepSeeks latest AI model last month  apparently costing a fraction of rival AI models and requiring less-sophisticated chips  raised questions over the Wests huge investments in chipmakers and data centers.
+
+Australias decision to ban DeepSeek follows similar action in Italy, while other countries in Europe and elsewhere are also looking into the AI firm.
+
+Taiwan banned government departments from using DeepSeeks AI service earlier this week.
+
+Australian Prime Minister Anthony Albanese government imposed a government-wide ban on Chinese social media app TikTok two years ago over security concerns.
+DeepSeek hasnt just disrupted OpenAI. Chinese tech giants are being upended too
+DeepSeeks advances have roiled global stock markets and AI players. Now, its influence is spreading quickly at home, with some of Chinas biggest tech companies, many of which had been developing their own chatbots, racing to incorporate the open-source model into their own services.
+
+In early February telecoms giant Huawei said it would run DeepSeek on its own computing hardware composed of its Ascend computer processors, which are domestically produced.
+
+Some AI watchers have hailed this as a turning point, as it demonstrates that a high-performing model like DeepSeek no longer requires Nvidias most powerful chips to operate.
+
+This partnership defies US sanctions by proving China can deliver globally competitive AI performance using domestically developed AI hardware and software stack, replacing Nvidia chips with Ascend chips, analysts at Bernstein, an investment and research firm, wrote in a research note earlier this month.
+
+Starting in late 2022, the Biden Administration imposed several rounds of export controls on China in an effort to deprive the country of technology that Washington fears Beijing could use to make the next generation of weapons and AI systems.
+
+But the success of DeepSeeks latest R1 AI model, which is said to be trained at a fraction of the cost of established players like ChatGPT, challenged the assumption that cutting off access to advanced chips could successfully stymie Chinas progress.
+
+Such is DeepSeeks fame that leading Chinese AI chipmakers  including Moore Threads, Tencent-backed Enflame, Baidus Kunlunxin and Hygon Information Technology  have also announced support for the firm, running the AI model on their own computing chips.
+
+Beyond chips
+Beyond chipmakers, the cloud arms of major Chinese technology companies have also rushed to incorporate DeepSeeks technology into their offerings.
+
+This screengrab shows Chinese hedge fund manager Liang Wenfeng, who founded DeepSeek, in a symposium with Chinese Premier Li Qiang in Beijing on January 20, 2025.
+Related article
+China celebrates DeepSeeks breakout AI success as tech race heats up
+
+Alibaba, Tencent, Baidu, and TikTok parent Bytedance announced they had made Deepseeks service available through their cloud platforms. The countrys three major telecom operators, along with electronics maker Lenovo and auto brand Geely, have also adopted DeepSeek into their cloud platforms and products.
+
+It serves as recognition for open-source large-model companies. If your model is good enough, AI giants will integrate it into their platforms, said Lian Jye Su, chief analyst at Omdia, a technology research firm.
+
+These major Chinese tech firms, which have dominated the countrys internet scene for more than a decade, began rolling out their own large language models over the past two years since the debut of ChatGPT in late 2022.
+
+Despite having competing products they have welcomed DeepSeek. Su said the primary reason for their adoption is to attract more people and businesses to use their platforms.
+
+In reality, making money directly from large models is difficult for AI giants  unless there are mature consumer and enterprise applications to support them, he said.
+
+Their moves reflect a wider trend. American Big Tech  including Nvidia, Microsoft and Amazon  have similarly embraced DeepSeek.
+
+Topping the charts
+Deepseek, the Hangzhou-based startup founded in 2023, sent shock waves around the world last month when it launched its newest AI model.
+
+Its AI Assistant app quickly topped global download charts, surpassing ChatGPT in late January. Within 20 days of launch, its daily active users have exceeded 22 million, according to state media.
+
+Its success has catapulted its founder, Liang Wenfeng, into the ranks of national heroes. Despite the optimism, analysts caution that bottlenecks in Chinas AI chip development remain due to US export restrictions.
+
+Porting DeepSeek models to different chip architectures is a lot of low-level software work, and the fact they could do so quickly is amazing, but it doesnt solve the chip shortage problem, said Linghao Bao, senior analyst at Trivium China, a research and advisory firm.
+
+The ramp-up of advanced chip production continues to be hampered by the absence of advanced chipmaking equipment, which the US has banned from being exported to China, he said.
+
+And outside China, DeepSeeks rapid rise has drawn scrutiny from various governments. Last week, Taiwan and Australia banned their government officials from using the Chinese AI service over data security risks.
+
+Some South Korean ministries and government departments have also issued bans. Last month, Italy imposed a blanket block on DeepSeeks app after the company failed to address privacy concerns raised by the authorities. More countries have since raised concerns over the firms data practices.
+A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging
+US stocks dropped sharply Monday  and chipmaker Nvidia lost nearly $600 billion in market value  after a surprise advancement from a Chinese artificial intelligence company, DeepSeek, threatened the aura of invincibility surrounding Americas technology industry.
+
+DeepSeek, a one-year-old startup, revealed a stunning capability last week: It presented a ChatGPT-like AI model called R1, which has all the familiar abilities, operating at a fraction of the cost of OpenAIs, Googles or Metas popular AI models. The company said it had spent just $5.6 million on computing power for its base model, compared with the hundreds of millions or billions of dollars US companies spend on their AI technologies.
+
+That sent shockwaves through markets, in particular the tech sector, on Monday.
+
+The tech-heavy Nasdaq plunged by 3.1% and the broader S&P 500 fell 1.5%. The Dow, boosted by health care and consumer companies that could be hurt by AI, was up 289 points, or about 0.7% higher. Stock market losses were far deeper at the beginning of the day.
+
+Meta last week said it would spend upward of $65 billion this year on AI development. Sam Altman, CEO of OpenAI, last year said the AI industry would need trillions of dollars in investment to support the development of in-demand chips needed to power the electricity-hungry data centers that run the sectors complex models.
+
+Marc Andreessen, a supporter of President Donald Trump and one of the worlds leading tech investors, called DeepSeek one of the most amazing and impressive breakthroughs Ive ever seen, in a post on X.
+
+The stunning achievement from a relatively unknown AI startup becomes even more shocking when considering that the United States for years has worked to restrict the supply of high-power AI chips to China, citing national security concerns. That means DeepSeek was able to achieve its low-cost model on under-powered AI chips.
+
+Tech stocks tumble
+US tech stocks got hammered Monday.
+
+Nvidia (NVDA), the leading supplier of AI chips, fell nearly 17% and lost $588.8 billion in market value  by far the most market value a stock has ever lost in a single day, more than doubling the previous record of $240 billion set by Meta nearly three years ago.
+
+For perspective, Nvidia lost more in market value Monday than all but 13 companies are worth  period. Nvidia began the day as the most valuable publicly traded stock on the market  over $3.4 trillion  after its shares more than doubled in each of the past two years. It ended the day in third place behind Apple and Microsoft.
+
+Meta (META) and Alphabet (GOOGL), Googles parent company, were also down sharply. Nvidia competitors Marvell, Broadcom, Micron and TSMC all fell sharply, too. Oracle (ORCL), Vertiv, Constellation, NuScale and other energy and data center companies tumbled.
+
+That dragged down the broader stock market, because tech stocks make up a significant chunk of the market  tech constitutes about 45% of the S&P 500, according to Keith Lerner, analyst at Truist.
+
+The bottom line is the US outperformance has been driven by tech and the lead that US companies have in AI, Lerner said. The DeepSeek model rollout is leading investors to question the lead that US companies have and how much is being spent and whether that spending will lead to profits (or overspending).
+
+This week kicks off a series of tech companies reporting earnings, so their response to the DeepSeek stunner could lead to tumultuous market movements in the days and weeks to come. In the meantime, investors are taking a closer look at Chinese AI companies.
+
+Chinese tech companies, including new entrants like DeepSeek, are trading at significant discounts due to geopolitical concerns and weaker global demand, said Charu Chanana, chief investment strategist at Saxo. DeepSeeks rise could spark renewed investor interest in undervalued Chinese AI companies, providing an alternative growth story.
+
+A massive rotation out of AI bets
+The news also sparked a huge change in investments in non-technology companies on Wall Street.
+
+Energy companies had been traded up significantly higher in recent years because of the massive amounts of electricity needed to power AI data centers. But they all plummeted Monday. Constellation Energy (CEG), the company behind the planned revival of the Three Mile Island nuclear plant for powering AI, fell 21% Monday. Competitors like Vistra (VST) fell 28% and GE Vernova (GEV) was down 21%.
+
+Futures for natural gas, used to power electricity generators, tumbled 5.9%. Oil fell more than 2%.
+
+Bitcoin and other cryptocurrencies also tumbled.
+
+Is this for real?
+One achievement, albeit a gobsmacking one, may not be enough to counter years of progress in American AI leadership. And a massive customer shift to a Chinese startup is unlikely. So the market selloff may be a bit overdone  or perhaps investors were looking for an excuse to sell.
+
+Time will tell if the DeepSeek threat is real  the race is on as to what technology works and how the big Western players will respond and evolve, said Michael Block, market strategist at Third Seven Capital. Markets had gotten too complacent on the beginning of the Trump 2.0 era and may have been looking for an excuse to pull back  and they got a great one here.
+
+The industry is also taking the company at its word that the cost was so low. No one is really disputing it, but the market freak-out hinges on the truthfulness of a single and relatively unknown company.
+
+Although the cost-saving achievement may be significant, the R1 model is a ChatGPT competitor  a consumer-focused large-language model. It hasnt yet proven it can handle some of the massively ambitious AI capabilities for industries that  for now  still require tremendous infrastructure investments.
+
+Thanks to its rich talent and capital base, the US remains the most promising home turf from which we expect to see the emergence of the first self-improving AI, said Giuseppe Sette, president of AI market research firm Reflexivity.

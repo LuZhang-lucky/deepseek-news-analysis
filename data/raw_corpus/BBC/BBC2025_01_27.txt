@@ -1,0 +1,29 @@
+Is China's AI tool DeepSeek as good as it seems?
+Reuters
+DeepSeek, a Chinese AI-chatbot app which launched last week, has sparked chaos in the US markets and raised questions about the future of America's AI dominance. The BBC takes a look at how the app works.
+DeepSeek looks and feels like any other chatbot, though it leans towards being overly chatty.
+Just as with OpenAI's ChatGPT or Google's Gemini, you open the app (or website) and ask it questions about anything, and it does its best to give you a response.
+It gives long answers and will not be drawn on expressing an opinion, however directly it is asked for one.
+The chatbot often begins its response by saying the topic is "highly subjective"  whether that is politics (is Donald Trump a good US president?) or soft drinks (which is more tasty, Pepsi or Coke?).
+It wouldn't even commit to saying whether or not it was better than OpenAI's rival artificial intelligence (AI) assistant ChatGPT, but it did weigh up the pros and cons of both - ChatGPT did exactly the same, and even used very similar language.
+DeepSeek says it was trained on data up to October 2023, and while the app seems to have access to current information such as today's date, the website version does not.
+That is not dissimilar to earlier versions of ChatGPT and is probably a similar attempt at safeguarding  to stop the chatbot spewing out misinformation pumped onto the web in real time.
+It can be quite fast in its responses, but is currently groaning under the weight of so many people rushing to try it out as it has gone viral.
+But there is one area in which it is nothing like its US rival - DeepSeek censors itself when it comes to questions about subjects banned in China.
+atch: DeepSeek AI bot responds to question about Tiananmen Square
+Sometimes it begins a response, which then disappears from the screen and is replaced by "let's talk about something else".
+One obviously taboo subject is the 1989 protests in Tiananmen Square which ended with 200 civilians being killed by the military according to the Chinese government - other estimates have ranged from hundreds to many thousands.
+But DeepSeek will not answer any questions about it, or even more broadly about what happened in China on that day.
+US-developed ChatGPT, by comparison, does not hold back in its answers about Tiananmen Square.
+Kayla Blomquist, a researcher at the Oxford Internet Institute and director of the Oxford China Policy Lab, says "relatively speaking" the Chinese government has been "hands off" with the app.
+"I would say there's a shift as we've seen an announcement in huge investment from the central government just in the last week - so that is probably going to signal a change moving forward."
+DeepSeek
+DeepSeek comes with the same caveats as any other chatbots regarding accuracy, and has the look and feel of more established US AI assistants already used by millions.
+For many  especially those who do not subscribe to top-tier services - it probably feels pretty much the same.
+Imagine a mathematical problem, in which the true answer runs to 32 decimal places but the shortened version runs to eight.
+It's not quite as good  but for most people, that won't matter.
+It may be the case it has managed to cut costs and compute, but we do know that it is built at least in part on the shoulders of the giants: it uses Nvidia chips  albeit older, cheaper versions - and utilises Meta's open-source Llama architecture, as well as AliBaba's equivalent Qwen.
+"I think this absolutely challenges the idea of monetisation strategies that a lot of leading US AI firms have had," said Ms Blomquist.
+"It is pointing to potential methods of model development that are much less compute and resource-intensive that would potentially signal a shift in paradigm, although that's unconfirmed and remains to be seen.
+"We'll see what the next couple of months bring."
+
